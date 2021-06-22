@@ -51,7 +51,6 @@ MEU GitHub: https://github.com/JailsonTS/
 Sintaxe => '''código'''
 
 '''javascript
-
 function soma (a, b){
     return a+b;
 }
