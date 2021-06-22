@@ -60,7 +60,7 @@ function soma (a, b) {
 
 ### Task List
 - [X] Atividade 1 
-- [] Atividade 2 
+- [ ] Atividade 2 
 - [X] Atividade 3 
-- [] Atividade 4
+- [ ] Atividade 4
 
