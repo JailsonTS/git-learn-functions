@@ -48,10 +48,19 @@ MEU GitHub: https://github.com/JailsonTS/
 [ ![Barco navegando na areia](https://www.google.com/)](image.jpg)
 
 ### MarkDown somente pro GitHub - CÓDIGO
-// Sintaxe => ```código```
+ Sintaxe => 3 acentos para esquerda 
+
+```código```
 
 ```javascript
 function soma (a, b) {
     return a + b;
 }
 ```
+
+### Task List
+ Atividade 1 [X]
+ Atividade 2 []
+ Atividade 3 [X]
+ Atividade 4 []
+
