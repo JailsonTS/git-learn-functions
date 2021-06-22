@@ -22,4 +22,9 @@ _**texto combinado**_ combinando negrito e itálico
 
  Listar ordenadas começam os itens com: 1. 
 
- 
+ 1. Area de membros
+    1. Login via Google
+    2. Login via Facebook
+    3. Login via Twitter
+ 2. Lista de pagamentos
+ 3. Ordenações semestrais
