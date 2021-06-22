@@ -31,6 +31,6 @@ _**texto combinado**_ combinando negrito e itálico
  3. Ordenações semestrais
 
 ### Imagens
-Sintaxe ![texto para relacionar a imagem](link da imagem)
+Sintaxe => ![texto para relacionar a imagem](link da imagem)
 
-![Barco navegando na areia com fundo escuro](image.jpg)
+![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)
