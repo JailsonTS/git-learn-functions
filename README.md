@@ -45,5 +45,4 @@ Ou link direto do próprio GitHub.
 MEU GitHub: https://github.com/JailsonTS/
 
 
-[![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)]](image.jpg)
-### Lista de tarefas
+[![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)](https://www.google.com/)
