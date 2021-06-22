@@ -31,6 +31,16 @@ _**texto combinado**_ combinando negrito e itálico
  3. Ordenações semestrais
 
 ### Imagens
-Sintaxe => ![texto para relacionar a imagem](link da imagem)
+Sintaxe para imagem => ![texto para relacionar a imagem](link da imagem)
 
 ![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)
+
+### Links
+Sintaxe para links => ![texto que ficará vinculado ao link](link da imagem)
+
+Ou link direto do próprio GitHub.
+
+[GOOGLE](https://www.google.com/)
+MEU GitHub: https://github.com/JailsonTS/
+
+### Lista de tarefas
