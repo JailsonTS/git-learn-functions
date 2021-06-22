@@ -41,6 +41,9 @@ Sintaxe para links => ![texto que ficará vinculado ao link](link da imagem)
 Ou link direto do próprio GitHub.
 
 [GOOGLE](https://www.google.com/)
+
 MEU GitHub: https://github.com/JailsonTS/
 
+
+[![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)]](image.jpg)
 ### Lista de tarefas
