@@ -21,6 +21,7 @@ _**texto combinado**_ combinando negrito e itálico
  * MYSQL
 
  Listar ordenadas começam os itens com: 1. 
+    SubLista são 4 espaços.
 
  1. Area de membros
     1. Login via Google
@@ -28,3 +29,8 @@ _**texto combinado**_ combinando negrito e itálico
     3. Login via Twitter
  2. Lista de pagamentos
  3. Ordenações semestrais
+
+### Imagens
+Sintaxe ![texto para relacionar a imagem](link da imagem)
+
+![Barco navegando na areia com fundo escuro](image.jpg)
