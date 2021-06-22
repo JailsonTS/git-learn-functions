@@ -50,4 +50,9 @@ MEU GitHub: https://github.com/JailsonTS/
 ### MarkDown somente pro GitHub - CÓDIGO
 Sintaxe => '''código'''
 
+'''javascript
 
+function soma (a, b){
+    return a+b;
+}
+'''
