@@ -45,4 +45,4 @@ Ou link direto do próprio GitHub.
 MEU GitHub: https://github.com/JailsonTS/
 
 
-[![Barco navegando na areia com fundo escuro. Autor desconhecido](image.jpg)](https://www.google.com/)
+[ ![Barco navegando na areia](https://www.google.com/)](image.jpg)
